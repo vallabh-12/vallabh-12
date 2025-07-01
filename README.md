@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrivallabha Patil</h1>
+<h1 align="center">Hi 👋, I'm Shrivallabha Venkatesh Patil</h1>
 <h3 align="center">AI | Data Science | NLP | Cloud Enthusiast</h3>
 
 <p align="center">
