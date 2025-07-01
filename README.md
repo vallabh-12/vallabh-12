@@ -87,5 +87,5 @@ The objective is to develop a scalable, low-label diagnostic framework that addr
 
 ---
 
-📫 **Contact me**: [LinkedIn](https://www.linkedin.com/in/shrivallabha-patil/) | [GitHub](https://github.com/vallabh-12)
+📫 **Contact me**: [LinkedIn](https://www.linkedin.com/in/shrivallabha-patil/) | [GitHub](https://github.com/vallabh-12) | [Mail](mailto:patilshrivallabha@gmail.com)
 
